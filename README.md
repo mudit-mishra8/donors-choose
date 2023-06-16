@@ -2,7 +2,7 @@
 
 ![DonorsChoose Image](https://blog.tcea.org/wp-content/uploads/2017/06/Donors_choose_700-1.jpg)
 
-This repository contains a machine learning project aimed at predicting whether teachers' project proposals submitted to DonorsChoose.org will be accepted or not. Check the [Jupyter Notebook](<insert-link-to-jupyter-notebook-here>) for detailed implementation.
+This repository contains a machine learning project aimed at predicting whether teachers' project proposals submitted to DonorsChoose.org will be accepted or not. Check the [Jupyter Notebook](https://github.com/mudit-mishra8/donors-choose/blob/main/Donors%20choose%20project.ipynb) for detailed implementation.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -29,6 +29,4 @@ This repository contains a machine learning project aimed at predicting whether 
 ## Conclusion
 This machine learning model aids DonorsChoose.org in pre-screening project proposals, enabling quicker and more efficient approval processes. This not only helps teachers get the funding they need more rapidly but also allows volunteers to concentrate on proposals that require more assistance.
 
----
 
-Feel free to contribute or suggest improvements.
